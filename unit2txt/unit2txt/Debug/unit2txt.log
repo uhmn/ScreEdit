@@ -1,0 +1,10 @@
+﻿  unit2txt.cpp
+C:\Users\Owner\source\repos\unit2txt\unit2txt\unit2txt.cpp(31,9): warning C4101: 'r': unreferenced local variable
+C:\Users\Owner\source\repos\unit2txt\unit2txt\unit2txt.cpp(79,28): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+C:\Users\Owner\source\repos\unit2txt\unit2txt\unit2txt.cpp(80,31): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+C:\Users\Owner\source\repos\unit2txt\unit2txt\unit2txt.cpp(86,43): warning C4244: 'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Owner\source\repos\unit2txt\unit2txt\unit2txt.cpp(91,43): warning C4244: 'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Owner\source\repos\unit2txt\unit2txt\unit2txt.cpp(139,43): warning C4244: 'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Owner\source\repos\unit2txt\unit2txt\unit2txt.cpp(178,43): warning C4244: 'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Owner\source\repos\unit2txt\unit2txt\Header.h(23): warning C4715: 'unit': not all control paths return a value
+  unit2txt.vcxproj -> C:\Users\Owner\source\repos\unit2txt\Debug\unit2txt.exe
