@@ -179,7 +179,6 @@ int main() {
         cout << length << "\n";
         while (i < length) {
             //Tile
-            //outblock[(e * 1) - 1] = tileout(readchk(i, offset, 2));
             outblock[(e * 1) - 1] = "leeE";
             i += 16;
             if (( i % mapX ) == 0) {
